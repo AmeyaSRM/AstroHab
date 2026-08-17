@@ -58,5 +58,4 @@ Setup
 
 3. Open and run the notebooks in the browser. Work through them in the order provided if one notebook depends on outputs from another.
 
-For questions about the notebooks or data, open an issue in this repository.
 
