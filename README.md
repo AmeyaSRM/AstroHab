@@ -58,32 +58,5 @@ Setup
 
 3. Open and run the notebooks in the browser. Work through them in the order provided if one notebook depends on outputs from another.
 
-Using the Notebooks
-
-- Each notebook contains explanatory text cells and code cells. Read the markdown cells for context before running code cells.
-- Notebooks are intended to run on a standard laptop for small sample datasets. For larger datasets or long runs, consider using a workstation or cloud environment.
-- Save checkpoints as you work to preserve results.
-
-Data
-
-- If a data/ directory is present, notebooks reference the files there. If not present, some notebooks may fetch example data from public catalogs or include small sample data embedded in the notebook.
-- Verify file paths in the notebooks before running. Update paths if you place datasets in a different location.
-
-Notes on Reproducibility
-
-- Exact results depend on package versions and data updates. If precise reproducibility is required, pin package versions and note the dataset source and retrieval date.
-- Random processes (e.g., train/test splits, stochastic algorithms) use a random seed when reproducibility is important; check notebook cells for seed settings.
-
-Contributing
-
-- Contributions are welcome. Please open an issue to discuss significant changes or bug fixes before submitting a pull request.
-- When contributing notebooks or code, include a brief description, any new dependencies, and any data required to run the contribution.
-
-License
-
-This repository does not include an explicit license file. If you would like to specify a license, add a LICENSE file at the repository root. Until a license is added, assume standard copyright applies.
-
-Contact
-
 For questions about the notebooks or data, open an issue in this repository.
 
