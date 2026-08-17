@@ -4,19 +4,6 @@ Exoplanet Habitability Analysis
 
 AstroHab is a collection of Jupyter notebooks for exploring and analyzing exoplanet habitability. The notebooks demonstrate data loading, basic processing, visualization, and simple habitability metrics and models used to assess exoplanet environments.
 
-Table of Contents
-
-- About
-- Repository Contents
-- Requirements
-- Setup
-- Using the Notebooks
-- Data
-- Notes on Reproducibility
-- Contributing
-- License
-- Contact
-
 About
 
 This repository contains interactive analyses intended for researchers, students, and hobbyists interested in exoplanet habitability. The notebooks are meant to be read and run in order to reproduce the figures and results.
